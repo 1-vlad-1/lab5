@@ -9,6 +9,7 @@ def capitalize(String):
 capitalize("shop") # [Shop]
 capitalize("python programming") # [Python Programming]
 capitalize("how are you!") # [How Are You!]
+capitalize("hello world")# fourth commit to master
 
 def merge(dic1,dic2):
     dic3=dic1.copy()
