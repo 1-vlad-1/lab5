@@ -21,7 +21,7 @@ merge(dic1,dic2) # {1: 'hello', 2: 'world', 3: 'Python', 4: 'Programming'} first
 import time
 start_time= time.time()
 def fun():
-    a=2
+    a=1#third commit to second branch
     b=3
     c=a+b
 end_time= time.time()
