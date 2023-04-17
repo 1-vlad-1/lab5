@@ -25,7 +25,7 @@ def fun():
     b=3
     c=a+b
 end_time= time.time()
-fun()
+fun()# third commit to third_branch
 timetaken = end_time - start_time # first commit to third_branch
 print("Your program takes: ", timetaken) # 0.0345
 
