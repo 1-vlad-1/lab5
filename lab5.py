@@ -1,4 +1,4 @@
-def get_vowels(String):
+def get_vowels(String): #second commit to second branch
     return [each for each in String if each in "aeiou"]
 get_vowels("animal") # [a, i, a]
 get_vowels("sky") # []
