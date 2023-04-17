@@ -22,7 +22,7 @@ import time
 start_time= time.time()
 def fun():
     a=1#third commit to second branch
-    b=3
+    b=2#fourth commit to second branch
     c=a+b
 end_time= time.time()
 fun()
