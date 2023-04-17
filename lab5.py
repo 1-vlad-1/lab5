@@ -26,7 +26,7 @@ def fun():
     c=a+b
 end_time= time.time()
 fun()
-timetaken = end_time - start_time
+timetaken = end_time - start_time # first commit to third_branch
 print("Your program takes: ", timetaken) # 0.0345
 
 def check_duplicate(lst):
