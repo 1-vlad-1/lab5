@@ -4,7 +4,7 @@ get_vowels("animal") # [a, i, a]
 get_vowels("bell") # [e] Third commit to master
 get_vowels("football") # [o, o, a]
 
-def capitalize(String):
+def capitalize(String):#sixth commit to master
     return String.title()
 capitalize("shop") # [Shop]
 capitalize("python programming") # [Python Programming]
